@@ -1,0 +1,23 @@
+{
+  "name": "socketexploration",
+  "version": "1.0.0",
+  "description": "Socket.io playground for experimentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveSonoa/socketExploration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveSonoa/socketExploration/issues"
+  },
+  "homepage": "https://github.com/SteveSonoa/socketExploration#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.1.1"
+  }
+}
